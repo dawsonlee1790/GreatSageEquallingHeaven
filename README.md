@@ -5,4 +5,10 @@
 
 ## 背景
 
+---
+2018年8月23日 重新打开项目遇到问题
+
+## VS2015 MFC提示“项目文件被卸载”
+
+解决方法：参考[https://blog.csdn.net/cheer_zhang/article/details/79004768](https://blog.csdn.net/cheer_zhang/article/details/79004768)
 
